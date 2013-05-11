@@ -1,0 +1,18 @@
+[
+{
+  "modid" : "TheatricsMod",
+  "name" : "Theatrics Mod",
+  "version" : "@MOD_VERSION",
+  "credits" : "",
+  "authors": [
+    "mbl111"
+  ],
+  "description": "Lights and Sound and stuff :D",
+  "updateUrl" : "",
+  "url" : "http://www.mbl111.com",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "depencies": ""
+}
+]
